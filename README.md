@@ -1,6 +1,8 @@
 # valueobject-extensions
 
-A collection of value objects based on funeralzone/valueobjects.
+Some routine value objects for use with funeralzone/valueobjects.
+
+Forked from https://github.com/padosoft/valueobject-ext because that package is not on GitHub but provides PHP 8 compatibility and some bug fixes to the orignal package.
 
 ## Requirements ##
 
@@ -11,7 +13,7 @@ Requires PHP >=8.0
 Through Composer, obviously:
 
 ```
-composer require padosoft/valueobject-ext
+composer require buzzingpixel/valueobject-ext
 ```
 
 ## Purpose ##

@@ -1,13 +1,7 @@
 {
-  "name": "padosoft/valueobject-ext",
+  "name": "buzzingpixel/valueobject-ext",
   "description": "Some routine value objects for use with funeralzone/valueobjects.",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Chris Harrison",
-      "email": "c.harrison1988@gmail.com"
-    }
-  ],
   "require": {
     "php": ">=8.0",
     "funeralzone/valueobjects": ">=0.0",
